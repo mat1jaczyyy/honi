@@ -1,0 +1,1 @@
+﻿print("NULA" if int(input()) == 0 else "ALADEEN")
