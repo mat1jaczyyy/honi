@@ -1,0 +1,1 @@
+﻿print("ISTINA" if int(input()) - int(input()) == int(input()) else "LAZ")
